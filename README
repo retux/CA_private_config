@@ -1,0 +1,6 @@
+Openssl config file for private CA (root and intermediate authority)
+----------------------------------
+
+I've been using these openssl config file for creating private CAs. 
+The files here are almost the same as they were offer by the author.
+Thanks to Jamie Nguyen, author of these files.
